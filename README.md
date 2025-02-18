@@ -59,10 +59,26 @@ A **passionate .NET Developer** with expertise in **C#, ASP.NET Core, MVC, Web A
 
 ### **FutureSol Technology Pvt Ltd**
 
-- ✅ **Airport Parking Management & Booking System**
-- ✅ **College Management System & Online Store**
-- ✅ **POS (Point of Sale) & HR (Human Resources)**
-- ✅ **Construction & Development Management System**
+- ✅ **Airport Parking Managements & Booking System**
+- ✅ **School Management Systems**
+- ✅ **College Management Systems**
+- ✅ **CMS (Customer Management Systems)**
+- ✅ **Activity management**
+- ✅ **Web Setup**
+- ✅ **Online Store**
+- ✅ **GS (General Setup)**
+- ✅ **Restaurant Management System**
+- ✅ **CND (Construction and Development)**
+- ✅ **College Management System**
+- ✅ **E-Commerce**
+- ✅ **Business & Franchise Registration**
+- ✅ **GDMS(General data Management Systems)**
+- ✅ **	Vesting Management System**
+- ✅ **HR (Human Resources)**
+- ✅ **POS(Point Of Sale)**
+- ✅ **Market Admin**
+
+ 
 
 ---
 
