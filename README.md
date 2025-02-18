@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 SUMMARY
 
 A **passionate .NET Developer** with expertise in **C#, ASP.NET Core, MVC, Web API, and SQL Server**. Strong knowledge of **JWT authentication, data encryption, and REST API development**. Skilled in front-end technologies like **HTML, CSS, JavaScript, and jQuery** to build interactive applications.
 
