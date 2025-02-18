@@ -2,7 +2,6 @@
 
 📍 Islamabad, Pakistan  
 📧 [Niamatkhanbtni@gmail.com](mailto:Niamatkhanbtni@gmail.com) 
-
 📞 +92-303 9861293 | +92-3471922884  
 🔗 [LinkedIn](https://www.linkedin.com/in/niamat-ullah-81951420a/)
 
