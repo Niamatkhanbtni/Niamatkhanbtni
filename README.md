@@ -97,7 +97,16 @@ Actively participated in database optimization and refactoring backend logic for
 - ✅ **POS(Point Of Sale)**
 - ✅ **Market Admin**
 
- 
+ ### **Teck Flickers Pvt Ltd**
+
+- ✅ **HMS (Hospital Management System ERP)**
+
+ ### **Topcity-1 Housing Society**
+
+- ✅ **UBMS (Utility Bill Management)**
+- ✅ **Topcity-1 Admin Portal (Multiples Areas Work)**
+
+
 
 ---
 
