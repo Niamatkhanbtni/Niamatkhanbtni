@@ -28,14 +28,6 @@ A **passionate .NET Developer** with expertise in **C#, ASP.NET Core, MVC, Web A
 
 ## 💼 Work Experience
 ### 🚀 Team Lead |Full Stack .Net Core Developer in Tech Flickers Pvt Ltd Islamabad (Aug 2025, Present)
-       Worked remotely on multiple modules of TopCity-1 Housing Society’s internal systems.
-Handled both frontend (UI/UX) and backend/database tasks, contributing to resolving core issues in their systems.
-Migrated a legacy application from .NET Framework to .NET Core, enhancing performance, maintainability, and scalability.
-Independently designed and implemented the software architecture of the migrated system, ensuring it followed modern best
-practices (e.g., layered architecture, dependency injection, RESTful APIs, etc.).
-Actively participated in database optimization and refactoring backend logic for better efficiency and performance.
-
-### 🚀 Remote Software Developer - Topcity-1 Housing Society Islamabad (3 Months Part Time)
 Leading a cross-functional team of .NET, React, and frontend developers to deliver robust software solutions. Key
 responsibilities include:
 - Designing scalable RESTful APIs with ASP.NET Core.
@@ -46,6 +38,14 @@ responsibilities include:
 - Leading sprints, code reviews, and team mentoring.
 - Ensuring on-time delivery with high code quality.
 - Aligning technical solutions with business objectives.
+
+### 🚀 Remote Software Developer - Topcity-1 Housing Society Islamabad (3 Months Part Time)
+Worked remotely on multiple modules of TopCity-1 Housing Society’s internal systems.
+Handled both frontend (UI/UX) and backend/database tasks, contributing to resolving core issues in their systems.
+Migrated a legacy application from .NET Framework to .NET Core, enhancing performance, maintainability, and scalability.
+Independently designed and implemented the software architecture of the migrated system, ensuring it followed modern best
+practices (e.g., layered architecture, dependency injection, RESTful APIs, etc.).
+Actively participated in database optimization and refactoring backend logic for better efficiency and performance.
   
 ### 🚀 .Net Core Developer in FutureSol Technology Pvt Ltd Islamabad (Nov 2023, Aug 2025)
 
